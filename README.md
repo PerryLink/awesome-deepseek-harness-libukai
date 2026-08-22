@@ -1,3 +1,5 @@
+[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/awesome-deepseek-harness-1)
+
 <div>
   <p align="center">
     <img width="100%" alt="Agent = Model + Harness — 一只连接 DSH 生态的发光鲸鱼" src="assets/media/awesome-deepseek-harness-banner.png">
